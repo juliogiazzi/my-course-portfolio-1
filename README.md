@@ -16,3 +16,5 @@ Welcome to my academic portfolio for CEP 146 NCC!
 
 ## Projects
 *This section will be updated as I complete assignments*
+
+Great choice of course goals! You might also want to add a goal about learning markdown.
